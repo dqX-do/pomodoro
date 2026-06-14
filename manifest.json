@@ -1,0 +1,18 @@
+{
+  "name": "🍅 番茄钟",
+  "short_name": "番茄钟",
+  "description": "漂亮专注的番茄钟计时器，提升工作效率",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0c29",
+  "theme_color": "#ff6b6b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
